@@ -1,0 +1,13 @@
+
+{
+  "name": "lcc-sample-vue-amplify",
+  "short_name": "lcc-sample-vue-amplify",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "landing-pages" : [
+    {
+      "path": "index.html",
+      "apex-controller": "RecordController"
+    }
+  ]
+}

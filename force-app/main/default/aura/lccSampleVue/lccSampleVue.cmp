@@ -1,0 +1,5 @@
+<aura:component implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes" access="global">
+    <lightning:card title="LCC Sample Vue">
+        <lightning:container aura:id="jsApp" src="{!$Resource.lcc_sample_vue + '/index.html'}"/>
+    </lightning:card>
+</aura:component>

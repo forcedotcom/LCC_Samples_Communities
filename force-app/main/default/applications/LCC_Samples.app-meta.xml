@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>LCC Samples</label>
+    <navType>Standard</navType>
+    <tabs>Basic_Messaging</tabs>
+    <tabs>Apex_Call</tabs>
+    <tabs>Angular</tabs>
+    <tabs>EmberJS</tabs>
+    <tabs>MeteorJS</tabs>
+    <tabs>Resizing</tabs>
+    <tabs>Polymer</tabs>
+    <tabs>Vue</tabs>
+    <tabs>Vue_Amplify</tabs>
+    <tabs>React_Apex</tabs>
+    <tabs>Commerce</tabs>
+    <tabs>ECMAScript_5</tabs>
+    <tabs>D3</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>LCC_Samples_UtilityBar</utilityBar>
+</CustomApplication>

@@ -1,0 +1,14 @@
+{
+  "name": "lcc-sample-vue",
+  "short_name": "lcc-sample-vue",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87",
+  "landing-pages" : [
+    {
+      "path": "index.html",
+      "apex-controller": "RecordController"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "orgName": "Test Company",
+    "edition": "Developer",
+    "hasSampleData": "true",
+    "orgPreferences": {
+	"enabled" : ["NetworksEnabled", "S1DesktopEnabled"],
+	"disabled": []
+    },
+    "features": ["Communities", "Sites"]
+}

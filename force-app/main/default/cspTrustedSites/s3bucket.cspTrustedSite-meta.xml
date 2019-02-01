@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CspTrustedSite xmlns="http://soap.sforce.com/2006/04/metadata">
+    <context>All</context>
+    <endpointUrl>https://app7693bf8496a84317a9a8d7d5c9bfdc69.s3.amazonaws.com</endpointUrl>
+    <isActive>true</isActive>
+</CspTrustedSite>

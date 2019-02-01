@@ -1,0 +1,9 @@
+<aura:component implements="flexipage:availableForAllPageTypes, forceCommunity:availableForAllPageTypes" access="global" >
+	
+    <lightning:card title="LCC Sample Meteor Client">
+
+        <lightning:container aura:id="jsApp" src="{!$Resource.lcc_sample_meteor_client + '/index.html'}"/>
+
+    </lightning:card>    
+    
+</aura:component>

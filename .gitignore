@@ -1,0 +1,15 @@
+*~
+.classpath
+.DS_Store
+.sfdx/
+.project
+.salesforce
+node_modules/
+.idea
+.vscode
+.tern-project
+.settings
+selenium-client-jars/
+test/artifacts
+export/
+IlluminatedCoud/rm

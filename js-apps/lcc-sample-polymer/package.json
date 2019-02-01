@@ -1,0 +1,26 @@
+{
+  "name": "lcc-sample-polymer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c",
+    "serve": "rollup -c"
+  },
+  "dependencies": {
+    "@polymer/paper-button": "^3.0.0-pre.20",
+    "@polymer/paper-input": "^3.0.1",
+    "@polymer/polymer": "^3.0.0-pre.13",
+    "@webcomponents/webcomponentsjs": "^2.0.0-beta.3",
+    "lightning-container": "^1.0.0"
+  },
+  "resolutions": {
+    "@polymer/polymer": "3.0.5"
+  },
+  "devDependencies": {
+    "rollup": "^0.66.6",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-dev-server": "^0.4.3",
+    "rollup-plugin-node-resolve": "^3.4.0"
+  }
+}

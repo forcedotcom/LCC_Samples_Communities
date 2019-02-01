@@ -1,0 +1,133 @@
+/* Excuse the unorganized, messy CSS. */
+
+.appHome {
+    background-image: url("../images/RadBanner.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 1400px;
+    background-color: rgb(156, 156, 156);
+}
+
+.fake-left-panel {
+    background-image: url("../images/side.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 800px;
+    width: 200px;
+}
+
+.text {
+    padding-left: 10px;
+}
+
+.header {
+    font-family: Palatino, URW Palladio L, serif;
+}
+
+.overlay {
+    color: whitesmoke;
+}
+
+.detail {
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.margin-left-small {
+    margin-left: 10px;
+}
+
+.margin-right-small {
+    margin-right: 10px;
+}
+
+.margin-top-small {
+    margin-top: 5px;
+}
+
+.margin-top-large {
+    margin-top: 20px;
+}
+
+.padding {
+    padding: 2%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.h-120 {
+    height: 120px;
+}
+
+.wide {
+    width: 300px;
+    height: 50px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-no-wrap {
+    display: flex;
+}
+
+.flex-grow {
+    flex-grow: 1;
+}
+
+.make-room {
+    max-width: calc(100% - 200px);
+}
+
+.flex-center {
+    align-items: center;
+    justify-content: center;
+}
+
+.checkout-container {
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+.product-card {
+    padding: 2%;
+    border: 1px dashed lightblue;
+    flex-grow: 1;
+    flex-basis: 20%;
+    max-width: 50%;
+    display: flex;
+}
+
+.product-card-no-grow {
+    padding: 2%;
+    border: 1px dashed lightblue;
+    flex-basis: 33%;
+    display: flex;
+}
+
+.flex-30 {
+    flex-basis: 30%;
+    display: flex;
+}
+
+.bordered {
+    border: 1px dashed lightblue;
+}
+
+.border-top {
+    border-top: 1px solid lightblue;
+}
+
+.product-image img {
+    width: 100%;
+    height: auto;
+}
+
+.product-info {
+    margin-top: auto;
+}

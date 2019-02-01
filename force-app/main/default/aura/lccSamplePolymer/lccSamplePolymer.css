@@ -1,0 +1,13 @@
+.THIS .slds-card__body {
+    padding: 0 12px;
+}
+
+.THIS iframe {
+    height: 150px;
+}
+
+.THIS .lightningContainer {
+	margin-top: 8px;
+    border: dashed 4px #999;
+    padding: 10px;
+}
