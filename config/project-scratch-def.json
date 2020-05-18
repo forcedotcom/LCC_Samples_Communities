@@ -2,9 +2,16 @@
     "orgName": "Test Company",
     "edition": "Developer",
     "hasSampleData": "true",
-    "orgPreferences": {
-	"enabled" : ["NetworksEnabled", "S1DesktopEnabled"],
-	"disabled": []
-    },
-    "features": ["Communities", "Sites"]
+    "features": [
+      "Communities",
+      "Sites"
+    ],
+    "settings": {
+        "communitiesSettings": {
+            "enableNetworksEnabled": true
+        },
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        }
+    }
 }
